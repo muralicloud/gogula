@@ -4,7 +4,7 @@ public void feedback(int score) {
 
 if (score == 100) 
 
-System.out.println("You're awesome"); 
+System.out.println("You're great"); 
 
 else if (score > 90) 
 
