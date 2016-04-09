@@ -12,7 +12,7 @@ System.out.println("That's great");
 
 else if (score > 60) 
 
-System.out.println("That's good "); 
+System.out.println("That's nice "); 
 
 else 
 
