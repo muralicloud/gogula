@@ -14,9 +14,13 @@ else if (score > 60)
 
 System.out.println("That's nice "); 
 
-else 
+else if (score > 50) 
 
-System.out.println("Well, what can I say for you?"); 
+System.out.println("Well, what can I say for you?");
+
+else
+
+system.out.println("Sorry, I don't have any words for you")
 
 } 
 
