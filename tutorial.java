@@ -8,7 +8,7 @@ System.out.println("You're awesome");
 
 else if (score > 90) 
 
-System.out.println("That's great"); 
+System.out.println("That's amazing"); 
 
 else if (score > 60) 
 
