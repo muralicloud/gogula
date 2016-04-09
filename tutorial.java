@@ -16,11 +16,11 @@ System.out.println("That's nice ");
 
 else if (score > 50) 
 
-System.out.println("Well, what can I say?");
+system.out.println("Sorry, I don't know what to say?")
 
 else
 
-system.out.println("Sorry, I don't know what to say?")
+system.out.println(" I don't have any words for you")
 
 } 
 
