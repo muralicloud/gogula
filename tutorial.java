@@ -10,7 +10,7 @@ else if (score > 90)
 
 System.out.println("That's amazing"); 
 
-else if (score > 60) 
+else if (score > 65) 
 
 System.out.println("That's nice "); 
 
